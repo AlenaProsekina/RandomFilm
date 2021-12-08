@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RandomFilmK</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string-array name="movies">
+        <item>Inception</item>
+        <item>Interstate 60</item>
+        <item>Raya and the Last Dragon</item>
+        <item>Sherlock</item>
+        <item>Good Omens</item>
+        <item>The Watch</item>
+        <item>Mr. and Mrs. Smith</item>
+        <item>Star Trek</item>
+    </string-array>
+</resources>
